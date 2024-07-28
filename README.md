@@ -7,27 +7,39 @@
   
    Weather Station : A weather station that notifies registered display devices (like a phone app or a weather display) when the weather changes.
 
+   ![Screenshot 2024-07-28 164048](https://github.com/user-attachments/assets/49e0abe2-0a02-42dd-bbf6-3a2ab348a12d)
+
  * Use Case 2: ***Strategy Pattern***
 
    Payment Method : A shopping cart that allows users to choose different payment methods (Credit Card, PayPal, etc.).
+
+   ![Screenshot 2024-07-28 164150](https://github.com/user-attachments/assets/52f1a016-f827-449c-9b8a-d179dfc35edc)
 
 ## ii) Creational Design Patterns
 * Use Case 3: ***Factory Method Pattern***
   
    Shape Creation : A shape factory that creates different shapes (Circle, Rectangle) based on input.
 
+   ![Screenshot 2024-07-28 164208](https://github.com/user-attachments/assets/defcd9f2-7809-4e7a-b933-bb86dd22972c)
+
  * Use Case 4: ***Singleton Pattern***
 
    Database Connection : A class that manages a single instance of a database connection.
 
+   ![Screenshot 2024-07-28 164224](https://github.com/user-attachments/assets/49965865-4484-47d5-a9b1-febe5b5cf587)
+
 ## iii) Structural Design Patterns
 * Use Case 5: ***Adapter Pattern***
   
-   Media Player : A media player that can play different audio formats (MP3, VLC) using an adapter
+   Media Player : A media player that can play different audio formats (MP3, VLC) using an adapter.
+
+   ![Screenshot 2024-07-28 164237](https://github.com/user-attachments/assets/e32cca0d-09b8-4d8b-9dec-d74c7858e5cd)
 
  * Use Case 6: ***Decorator Pattern***
 
    Coffee Shop Order :  A coffee shop that allows customers to customize their coffee orders with different toppings and extras.
+
+   ![Screenshot 2024-07-28 164252](https://github.com/user-attachments/assets/5a7e00e9-05bd-46c6-a52a-e483cc35ad3f)
 
 ## 2. Mini-Project
 
