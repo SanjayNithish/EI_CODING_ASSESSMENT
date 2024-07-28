@@ -73,3 +73,32 @@ send and receive messages in real-time.
 ***UserObserver***  :  An interface that defines the method for receiving notifications about changes in the chat room.
 
 ***CommandInvoker***  :  A class that executes commands and maintains a history of executed commands.
+
+## OUTPUT : 
+
+**User 1**
+
+![1](https://github.com/user-attachments/assets/60282356-d10c-4c17-ab84-87c0b86197cb)
+
+![2](https://github.com/user-attachments/assets/1feec352-72ec-4a65-93d8-497c5cf68962)
+
+![3](https://github.com/user-attachments/assets/f0e1dba7-a878-4cbf-943f-f85b4bce972f)
+
+**User 2**
+
+![4](https://github.com/user-attachments/assets/852d0fb7-4b14-4c00-bdad-b1c9210ac61d)
+
+![5](https://github.com/user-attachments/assets/0a976da5-ac01-4a13-af1c-d6d5d3ede4b5)
+
+![6](https://github.com/user-attachments/assets/f3ad876e-0a67-4637-9fac-517ceb4b99d2)
+
+**Active Users**
+
+![7](https://github.com/user-attachments/assets/eb034325-b7a8-42d0-a7e3-9d436729ddc5)
+
+**Message History**
+
+![8](https://github.com/user-attachments/assets/26736a47-56ca-438a-a6bf-e1ffa8e23246)
+
+
+![9](https://github.com/user-attachments/assets/a0472cd7-d603-444e-9fca-ae321ff3498b)
